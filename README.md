@@ -7,4 +7,5 @@ In dem Ordner "test" ist die Klasse FinderTest zu finden, die bezüglich der Anf
 
 Das Programm hat ein einfaches Command Line Interface (kann also z.B. über die übliche Eingabeaufforderung aufgerufen werden) nach folgendem Schema: 
 java -jar ViewSpotFinder.jar <mesh file> <number of view spots>
+Falls die Eingabeaufforderung nicht bereits das Verzeichnis der Jar-Datei ausgewählt hat, so muss unter Umständen anstelle von ViewSpotFinder der Pfad der Programmdatei angegeben werden. 
 Das Ergebnis einer Anfrage ist im gewünschten Format im Standard-Output zu sehen.
