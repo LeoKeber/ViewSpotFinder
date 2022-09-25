@@ -6,7 +6,7 @@ In dem Ordner "main" liegen fünf Klassen vor. Die Klassen Element, Node sowie V
 In dem Ordner "test" ist die Klasse FinderTest zu finden, die bezüglich der Anforderungen der Aufgabenstellung auf Korrektheit der Ausgabe und Execution-Time testet.
 
 Das Programm hat ein einfaches Command Line Interface (kann also z.B. über die übliche Eingabeaufforderung aufgerufen werden) nach folgendem Schema: 
-java -jar ViewSpotFinder.jar <mesh file> <number of view spots>
+java -jar ViewSpotFinder.jar <mesh file> <number of view spots>.
 Falls die Eingabeaufforderung nicht bereits das Verzeichnis der Jar-Datei ausgewählt hat, so muss unter Umständen anstelle von ViewSpotFinder der Pfad der Programmdatei angegeben werden. 
 Das Ergebnis einer Anfrage ist im gewünschten Format im Standard-Output zu sehen.
   
