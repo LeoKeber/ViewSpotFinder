@@ -1,5 +1,4 @@
 # ViewSpotFinder
-Should find view spots
 
 Es existieren die zwei Ordner "main" und "test". 
 In dem Ordner "main" liegen fünf Klassen vor. Die Klassen Element, Node sowie ViewSpot werden hierbei in der Klasse Finder verwendet. Die Klasse Finder hat die Methode findViewPoints(), der ein JSONObjekt sowie ein Integerwert n übergeben wird. Aus diesen Parametern heraus sucht sie alle Viewspots aus dem Mesh. Zur Klasse Main später mehr.
