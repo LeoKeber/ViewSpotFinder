@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public abstract class Finder {
-    //Todo READMe-Datei erstllen?! -> Erklärung wie Programm funktioniert und bedient wird
 
     public static String findViewPoints(JSONObject jsonObject, int n){
         JSONArray elements = jsonObject.getJSONArray("elements");
